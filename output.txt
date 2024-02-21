@@ -1,0 +1,6 @@
+Server:		2603:7080:2bf0:8760::1
+Address:	2603:7080:2bf0:8760::1#53
+
+** server can't find https://www.youtube.com: NXDOMAIN
+
+
